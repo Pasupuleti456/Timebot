@@ -41,8 +41,3 @@ This project combines multiple AI services to transform historical facts into en
 - Pillow
 - streamlit
 
----
-
-
-│── .env
-│── .gitignore
