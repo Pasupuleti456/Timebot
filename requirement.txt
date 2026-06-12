@@ -1,7 +1,0 @@
-streamlit
-requests
-google-generativeai
-gtts
-Pillow
-stability-sdk
-python-dotenv
