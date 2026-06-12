@@ -2,5 +2,6 @@ streamlit
 requests
 google-generativeai
 gtts
-pillow
+Pillow
 stability-sdk
+python-dotenv
