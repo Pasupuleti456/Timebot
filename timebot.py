@@ -8,8 +8,8 @@ import io
 import os
 from datetime import datetime
 import base64
-from stability_sdk import client
-from stability_sdk.interfaces.gooseai.generation.generation_pb2 import *
+#from stability_sdk import client
+#from stability_sdk.interfaces.gooseai.generation.generation_pb2 import *
 
 # Configure the page with new theme
 st.set_page_config(
