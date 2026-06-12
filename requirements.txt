@@ -1,7 +1,6 @@
 streamlit
 requests
-google-generativeai
+google-generativeai==0.8.5
 gtts
 Pillow
-stability-sdk
 python-dotenv
