@@ -1,0 +1,6 @@
+streamlit
+requests
+google-generativeai
+gtts
+pillow
+stability-sdk
